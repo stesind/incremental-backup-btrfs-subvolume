@@ -6,7 +6,7 @@ For each subvolume create a script, use backup@home.sh as template. Set the cons
 
 At the target directory an additional snapshot with time stamp is created. Hence a history is build up. One may to clean up this snapshots after some time.
 
-## Tnstall
+## Install
 Install whereever you want. I prever my home directory.
 ```shell
 git clone https://github.com/stesind/incremental-backup-btrfs-subvolume.git
